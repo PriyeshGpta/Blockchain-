@@ -1,2 +1,2 @@
 # Blockchain-
-This the project on donation based crowdfunding application
+This is the project on donation based crowdfunding application
