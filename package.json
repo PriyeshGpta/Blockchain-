@@ -1,0 +1,35 @@
+{
+  "name": "donateandhelp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.11",
+    "@mui/styled-engine-sc": "^5.10.6",
+    "dotenv": "^16.0.2",
+    "ipfs-http-client": "^59.0.0",
+    "next": "12.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-loader-spinner": "^5.3.4",
+    "react-toastify": "^9.1.1",
+    "styled-components": "^5.3.6"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.1.1",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "babel-plugin-styled-components": "^2.0.7",
+    "chai": "^4.3.6",
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.2.5",
+    "ethers": "^5.7.0"
+  }
+}
